@@ -1,1 +1,2 @@
-# tamu-vcim.github.io
+# VCIM
+Visual Computing and Interactive Media
